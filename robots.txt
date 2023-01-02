@@ -6,5 +6,6 @@ Allow: /e-commerce.html/
 Allow: /digital-marketing.html/
 Allow: /seo-ppc-advertising.html/
 Allow: /contact-us.html/
+Allow: /help-center.html/
 Allow: /asset/*
 Sitemap: http://houston.returnondata.agency/sitemap.xml/

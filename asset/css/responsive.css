@@ -859,6 +859,7 @@
   #hero-9-form h4.h4-xs { font-size: 1.65rem; }
 
   /* Hero-10 */
+
   .hero-10-txt p { margin-bottom: 30px; }
   .hero-10-img { padding: 0 25px; margin-top: 50px; }
 
@@ -1619,6 +1620,7 @@
   #hero-6 .quick-form .btn { padding: 13px 50px; }
   .hero-6-img { margin-bottom: -80px; padding: 0 10%; }
 
+  
   /* Hero-7 */
   #hero-7 { padding-top: 80px; }
   .hero-7-txt { text-align: center;  margin-top: 0; padding: 0; }
@@ -1642,7 +1644,7 @@
 
   /* Hero-10 */
   #hero-10 { padding-top: 80px; }
-  .hero-10-txt { padding: 0 5%; }
+  .hero-10-txt { padding: 53px 5%; }
   .hero-10-txt p { margin-bottom: 30px; }
   .hero-10-img { padding: 0; margin-top: 50px; }
 

@@ -1153,6 +1153,20 @@ ol.digit-list p {
   border-color: #ccc!important;
 }
 
+.orange-hover:hover,
+.scroll .orange-hover:hover {
+  color: #E87E13!important;
+  background-color: rgba(17, 36, 70, .04)!important;
+  border-color: rgba(17, 36, 70, .02)!important;
+}
+
+.tra-orange-hover:hover,
+.scroll .tra-orange-hover:hover {
+  color: #E87E13!important;
+  background-color: transparent!important;
+  border-color: #E87E13!important;
+}
+
 /*------------------------------------------*/
 /*  Button Focus
 /*------------------------------------------*/
